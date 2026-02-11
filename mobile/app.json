@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Bentoveda Mobile",
+    "slug": "bentoveda-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.bentoveda.mobile"
+    },
+    "android": {
+      "package": "com.bentoveda.mobile",
+      "permissions": [
+        "INTERNET"
+      ]
+    }
+  }
+}
